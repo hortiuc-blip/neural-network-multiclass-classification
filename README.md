@@ -1,5 +1,5 @@
 # neural-network-multiclass-classification
-neural-network-multiclass-classification/  ├── nn_multiclass_digits_personal.ipynb  └── README.md
+Multiclass neural network for handwritten digit recognition (0–9) using TensorFlow. Personal ML practice project.
 ## Multiclass Neural Network for Digit Recognition
 Personal practice project focused on implementing and analyzing
 a neural network for handwritten digit recognition (0–9).
